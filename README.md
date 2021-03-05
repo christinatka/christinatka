@@ -7,7 +7,7 @@
 - 👩🏻‍💻 Software Engineer
 - 🏗 Currently located in Manhattan, NY
 - 🏔 Backpacker with a travel bug
-- ☕️ Coffee Enthusiast - whats your setup?
+- ☕️ Aeropress Enthusiast
 
 ### Languages & Tools 💬
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23323330.svg?&style=flat-square&logo=typescript&logoColor=%23F7DF1E)
