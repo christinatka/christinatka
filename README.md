@@ -10,7 +10,7 @@
 - ☕️ Coffee Enthusiast - whats your setup?
 
 ### Languages & Tools 💬
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23323330.svg?&style=flat-square&logo=typescript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-redux-black)
 ![Babel](https://img.shields.io/badge/-babel-yellow)
