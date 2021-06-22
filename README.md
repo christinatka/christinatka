@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/christinatka%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:christinatka@gmail.com)](mailto:christinatka@gmail.com)
 
 - 👩🏻‍💻 Software Engineer
-- 🏗 Currently located in Manhattan, NY
+- 🏗 Currently located in NYC
 - 🏔 Backpacker with a travel bug
 - ☕️ Aeropress Enthusiast
 
