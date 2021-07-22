@@ -11,15 +11,16 @@
 
 ### Languages & Tools 💬
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23323330.svg?&style=flat-square&logo=typescript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/-redux-black)
-![Babel](https://img.shields.io/badge/-babel-yellow)
+![Redux](https://img.shields.io/badge/-redux-black?&style=flat-square)
+![Babel](https://img.shields.io/badge/-babel-yellow?&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink)
-![Axios](https://img.shields.io/badge/-Axios-blueviolet)
+![Axios](https://img.shields.io/badge/-Axios-blueviolet?&style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
-![JQuery](https://img.shields.io/badge/-jQuery-orange)
+![JQuery](https://img.shields.io/badge/-jQuery-orange?&style=flat-square)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
