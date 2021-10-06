@@ -4,10 +4,8 @@
 [![GitHub](https://img.shields.io/badge/christinatka%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/christinatka)](https://github.com/christinatka)
 [![Gmail](https://img.shields.io/badge/christinatka%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:christinatka@gmail.com)](mailto:christinatka@gmail.com)
 
-- 👩🏻‍💻 Software Engineer
-- 🏗 Currently located in NYC
-- 🏔 Backpacker with a travel bug
-- ☕️ Aeropress Enthusiast
+👩🏻‍💻 Software Engineer  
+🏗 Currently located in NYC
 
 ### Languages & Tools 💬
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23323330.svg?&style=flat-square&logo=typescript&logoColor=%23F7DF1E)
